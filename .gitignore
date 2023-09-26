@@ -1,2 +1,6 @@
 env/
 *.mmap
+*.zip
+kaggle/petals/tpu-getting-started/
+*.pt
+*.tfrec
