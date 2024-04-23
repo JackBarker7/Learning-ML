@@ -4,3 +4,7 @@ env/
 kaggle/petals/tpu-getting-started/
 *.pt
 *.tfrec
+*.pt
+data_batch_*
+*.tar.gz
+data-unversioned/
